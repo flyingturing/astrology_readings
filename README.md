@@ -42,7 +42,6 @@ This guide explains how to generate your personalized Natal Chart Report and off
 
 4. **Explore Additional Astrological Tools**  
    To deepen your astrological understanding, consider exploring other services such as relationship insights.  
-   👉 [Explore Our Couple Compatibility Report]([https://www.skylinereadings.com](https://www.skylinereadings.com/shop/couple-synastry-report-7#attribute_values=5,6,7,9,10,11)) :contentReference[oaicite:1]{index=1}
 
 ## Tips for Interpreting Your Natal Chart
 
